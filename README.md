@@ -44,6 +44,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+- Create .env file following .env.example
+
 - Get into the cache directory:
 
 ```bash
